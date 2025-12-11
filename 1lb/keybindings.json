@@ -1,0 +1,23 @@
+// Поместите настраиваемые сочетания клавиш в этот файл, чтобы переопределить сочетания клавиш по умолчанию.
+[
+    {
+        "key": "clear",
+        "command": "references-view.removeCallItem"
+    },
+    {
+        "key": "end down",
+        "command": "workbench.action.terminal.openUrlLink"
+    },
+    {
+        "key": "down end",
+        "command": "workbench.action.terminal.openFileLink"
+    },
+    {
+        "key": "left clear",
+        "command": "editor.action.selectToBracket"
+    },
+    {
+        "key": "home up",
+        "command": "workbench.files.action.refreshFilesExplorer"
+    }
+]

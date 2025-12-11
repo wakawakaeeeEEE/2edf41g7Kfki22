@@ -1,0 +1,5 @@
+org.eclipse.jdt.core.formatter.comment.line_length- максимальное количество символов для строки комментариев
+org.eclipse.jdt.core.formatter.tabulation.size-размер табуляции
+org.eclipse.jdt.core.formatter.lineSplit -максимальная длина строки
+org.eclipse.jdt.core.formatter.indent_statements_compare_to_body- если true,добаляет отступ перед оператором внутри условного оператора или цикла
+org.eclipse.jdt.core.formatter.indentation.sizeorg.eclipse.jdt.core.formatter.indentation.size- ширина единицы отступа

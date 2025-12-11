@@ -1,0 +1,13 @@
+{
+	
+	 "Print to console": {
+	 	"scope": "java,javascript,typescript",
+	 	"prefix": "calk",
+		"body": [
+	 		"Calculator calculator = new Calculator();
+      Assert.assertEquals($1,$2);",
+		
+	 	],
+	 	"description": "calculator calculator calculator"
+	 }
+}
